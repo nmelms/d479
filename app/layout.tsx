@@ -7,9 +7,7 @@ import Navigation from "../components/navigation"
 import Footer from "../components/footer"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.dev",
+  title: "d479",
 }
 
 export default function RootLayout({
